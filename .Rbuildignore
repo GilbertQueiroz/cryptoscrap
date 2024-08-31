@@ -1,2 +1,4 @@
+^renv$
+^renv\.lock$
 ^cryptoscrap\.Rproj$
 ^\.Rproj\.user$
