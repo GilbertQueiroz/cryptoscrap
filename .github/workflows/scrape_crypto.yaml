@@ -65,8 +65,8 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
+          git config --local user.email "gilbert_queiroz@yahoo.com.br"
+          git config --local user.name "GilbertQueiroz"
           git add .
           git commit -m "data updated"
           git push
