@@ -34,7 +34,7 @@ jobs:
         shell: Rscript {0}
         run: |
           install.packages("rsconnect")
-          remotes::install_github('rstudio/flexdashboard')
+          install.packages("flexdashboard")
 
       - name: Install libgit2-dev
         run: sudo apt install libgit2-dev
