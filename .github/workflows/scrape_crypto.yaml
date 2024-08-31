@@ -67,9 +67,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with: 
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          repository: https://github.com/GilbertQueiroz/cryptoscrap.git
           branch: ${{ github.ref }}
-          directory: .
       
       - name: Commit and push
         run: |
