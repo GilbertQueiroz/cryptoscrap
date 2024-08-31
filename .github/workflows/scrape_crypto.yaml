@@ -35,6 +35,8 @@ jobs:
         run: |
           install.packages("rsconnect")
           install.packages("flexdashboard")
+          install.packages("rvest")
+          install.packages("purrr")
 
       - name: Install libgit2-dev
         run: sudo apt install libgit2-dev
