@@ -63,14 +63,6 @@ jobs:
           rmarkdown::render("dash_crypto.Rmd")
         shell: Rscript {0}
 
-      - name: Commit and push
-        run: |
-          git config --local user.email "actions@users.noreply.github.com"
-          git config --local user.name "GilbertQueiroz"
-          git add dash_crypto.html
-          git commit -m "data updated"
-          git push
-          
       - name: Push changes
         uses: ad-m/github-push-action@master
         with: 
@@ -78,7 +70,15 @@ jobs:
           repository: https://github.com/GilbertQueiroz/cryptoscrap.git
           branch: refs/pull/42/merge
           directory: .
-          
+      
+      - name: Commit and push
+        run: |
+          git config --local user.email "actions@users.noreply.github.com"
+          git config --local user.name "GilbertQueiroz"
+          git add dash_crypto.html
+          git commit -m "data updated"
+          git push
+
       - name: Session info
         run: |
           options(width = 500)
