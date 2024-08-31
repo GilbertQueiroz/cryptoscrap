@@ -65,9 +65,9 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config --local user.email "gilbert_queiroz@yahoo.com.br"
+          git config --local user.email "actions@users.noreply.github.com"
           git config --local user.name "GilbertQueiroz"
-          git add .
+          git add dash_crypto.html
           git commit -m "data updated"
           git push
           
