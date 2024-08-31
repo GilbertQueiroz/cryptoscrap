@@ -29,6 +29,13 @@ jobs:
       - name: Install curl
         run: sudo apt -y install libcurl4-openssl-dev
 
+       # Install from GitHub so that rsconnect can find the package
+      - name: Install bslib from GitHub
+        shell: Rscript {0}
+        run: |
+          install.packages("rsconnect")
+          pak::pkg_install("rstudio/flexdashboard", dependencies = TRUE, upgrade = TRUE)
+
       - name: Install libgit2-dev
         run: sudo apt install libgit2-dev
 
