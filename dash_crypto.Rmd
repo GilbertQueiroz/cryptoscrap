@@ -23,8 +23,8 @@ crypto_tbl <- crypt_scrap()
 
 Column {.sidebar data-width=180}
 -----------------------------------------------------------------------
-  
-`r paste0("Last update: ", Sys.time())`
+p <- R.home()
+`r paste0("Last update: ", tail(fs::file_info(p)$modification_time))`
 
 Column
 -----------------------------------------------------------------------
