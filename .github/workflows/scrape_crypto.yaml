@@ -60,7 +60,7 @@ jobs:
       - name: Render Rmarkdown
         run: |
           devtools::load_all()
-          rmarkdown::render("dash_crypto.Rmd")
+          rmarkdown::render("dash_crypto.Rmd", output_file = "index.html")
         shell: Rscript {0}
            
       - name: Commit and push
