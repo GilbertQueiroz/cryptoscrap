@@ -13,7 +13,8 @@ pacman::p_load(
   "rmarkdown",
   "flexdashboard",
   "devtools",
-  "DT"
+  "DT",
+ "R.utils" 
 )
 
 # Web-scrapping data
@@ -25,16 +26,10 @@ Column {.sidebar data-width=180}
 -----------------------------------------------------------------------
 
 ```{r}
-meu_objeto <- 0
-
-create_object <- function(value) {  
-  list(object = value, created_at = Sys.time())  
-}  
-
-meu_objeto <- create_object(crypto_tbl) 
+t <- lastModified("index.html")
 ```
 
-`r paste0("Last update: ", print(meu_objeto$created_at))`
+`r paste0("Last update: ", print(t))`
 
 Column
 -----------------------------------------------------------------------
