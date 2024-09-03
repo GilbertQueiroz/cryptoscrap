@@ -24,6 +24,8 @@ crypto_tbl <- crypt_scrap()
 Column {.sidebar data-width=180}
 -----------------------------------------------------------------------
 
+meu_objeto <- NULL
+
 create_object <- function(value) {  
   list(object = value, created_at = Sys.time())  
 }  
