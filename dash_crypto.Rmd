@@ -23,8 +23,14 @@ crypto_tbl <- crypt_scrap()
 
 Column {.sidebar data-width=180}
 -----------------------------------------------------------------------
-p <- R.home()
-`r paste0("Last update: ", tail(fs::file_info(p)$modification_time))`
+
+create_object <- function(value) {  
+  list(object = value, created_at = Sys.time())  
+}  
+
+meu_objeto <- create_object(crypto_tbl) 
+
+`r paste0("Last update: ", print(meu_objeto$created_at))`
 
 Column
 -----------------------------------------------------------------------
