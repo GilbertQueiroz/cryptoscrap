@@ -17,6 +17,8 @@ pacman::p_load(
  "R.utils" 
 )
 
+source("~/crypt_scrap.R")
+
 # Web-scrapping data
 devtools::load_all()
 crypto_tbl <- crypt_scrap()
