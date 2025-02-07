@@ -14,17 +14,15 @@ pacman::p_load(
   "rmarkdown",
   "flexdashboard",
   "devtools",
-  "DT",
-  "readr"
+  "DT"
 )
 
 # Web-scrapping data
 #devtools::load_all()
-#source("crypt_scrap.R")
-
+#source("~/cryptoscrap/R/crypt_scrap.R")
 #crypto_tbl <- crypt_scrap()
 
-crypto_tbl <- read_csv("crypt_scrap.csv")
+crypto_tbl <- readr::read_csv("crypt_scrap.csv")
 ```
 
 Column {.sidebar data-width=180}
