@@ -19,7 +19,7 @@ pacman::p_load(
 
 # Web-scrapping data
 #devtools::load_all()
-source("crypt_scrap.R")
+#source("crypt_scrap.R")
 
 crypto_tbl <- crypt_scrap()
 ```
