@@ -37,6 +37,7 @@ jobs:
           install.packages("flexdashboard")
           install.packages("rvest")
           install.packages("purrr")
+          install.packages("DT")
 
       - name: Install libgit2-dev
         run: sudo apt install libgit2-dev
@@ -52,7 +53,7 @@ jobs:
 
       - name: Install workflow dependencies
         run: |
-          install.packages(c("rcmdcheck", "sessioninfo", "devtools"))
+          install.packages(c("rcmdcheck", "sessioninfo", "devtools", "DT"))
         shell: Rscript {0}
 
       - uses: r-lib/actions/setup-pandoc@v2
