@@ -28,7 +28,7 @@ Column {.sidebar data-width=180}
 -----------------------------------------------------------------------
 
 ```{r}
-t <- lastModified("index.html")
+t <- lastModified("~/index.html")
 ```
 
 `r paste0("Last update: ", print(t))`
