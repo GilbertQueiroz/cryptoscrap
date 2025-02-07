@@ -13,8 +13,7 @@ pacman::p_load(
   "rmarkdown",
   "flexdashboard",
   "devtools",
-  "DT",
- "R.utils" 
+  "DT"
 )
 
 source("~/R/crypt_scrap.R")
