@@ -57,9 +57,14 @@ jobs:
 
       - uses: r-lib/actions/setup-pandoc@v2
 
+      # Rodar o script R
+      # Certifique-se de que o script esteja no diretório raiz ou ajuste o caminho
+      - name: Run R script
+        run: |
+          Rscript crypt_scrap.R  
+
       - name: Render Rmarkdown
         run: |
-          devtools::load_all()
           rmarkdown::render("dash_crypto.Rmd", output_file = "index.html")
         shell: Rscript {0}
            
