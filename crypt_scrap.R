@@ -1,3 +1,5 @@
+library(readr)
+
 crypt_scrap <- function() {
 
   # Crytocurrency page URL
@@ -29,4 +31,5 @@ crypt_scrap <- function() {
   return(crypto_table)
 }
 
-write.csv(crypt_scrap(), "crypt_scrap.csv") 
+
+readr::write_csv(crypt_scrap(), "crypt_scrap.csv")
