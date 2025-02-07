@@ -28,3 +28,5 @@ crypt_scrap <- function() {
   # Return tibble
   return(crypto_table)
 }
+
+write.csv(crypt_scrap(), "crypt_scrap.csv") 
