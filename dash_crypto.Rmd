@@ -14,7 +14,8 @@ pacman::p_load(
   "rmarkdown",
   "flexdashboard",
   "devtools",
-  "DT"
+  "DT",
+  "readr"
 )
 
 # Web-scrapping data
