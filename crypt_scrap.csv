@@ -1,101 +1,101 @@
 Name,Mkt Cap,FD Mkt Cap,Last,Avail. Coins,Total Coins,Traded Vol,Chg %
-BTCBitcoin,1,"88,401.39 USD",+0.89%,1.76 T USD,38.4 B USD,19.85 M,"Cryptocurrencies, Layer 1"
-ETHEthereum,2,"1,626.80 USD",−1.30%,196.37 B USD,15.92 B USD,120.71 M,"Smart contract platforms, Layer 1"
-USDTTether USDt,3,1.0000 USD,+0.00%,144.73 B USD,69.03 B USD,144.73 B,"Stablecoins, Asset-backed Stablecoins"
-XRPXRP,4,2.0970 USD,−1.86%,122.45 B USD,2.48 B USD,58.39 B,"Cryptocurrencies, Enterprise solutions, Layer 1, Made in America"
-BNBBNB,5,605.92 USD,+0.13%,85.37 B USD,1.43 B USD,140.89 M,"Smart contract platforms, Centralized-exchange, Layer 1"
-SOLSolana,6,139.55 USD,−0.62%,72.17 B USD,3.92 B USD,517.19 M,"Smart contract platforms, Layer 1, Made in America"
-USDCUSDC,7,1.0000 USD,+0.01%,60.88 B USD,9.99 B USD,60.88 B,"Stablecoins, Asset-backed Stablecoins, Made in America"
-DOGEDogecoin,8,0.16385 USD,+1.14%,24.41 B USD,991.6 M USD,148.96 B,"Memes, Cryptocurrencies, Layer 1, Made in America"
-TRXTRON,9,0.24839 USD,+1.39%,23.58 B USD,583.97 M USD,94.95 B,"Smart contract platforms, Payments, Layer 1"
-ADACardano,10,0.63553 USD,−1.74%,22.43 B USD,589.85 M USD,35.29 B,"Smart contract platforms, Layer 1, Made in America"
-LINKChainlink,11,13.339 USD,−1.93%,8.77 B USD,296.7 M USD,657.1 M,"Oracles, Data management & AI, Interoperability, Web3, Made in America"
-LEOUNUS SED LEO,12,9.0683 USD,−4.10%,8.38 B USD,3.44 M USD,923.64 M,"Centralized-exchange, Payments"
-AVAXAvalanche,13,20.248 USD,−2.50%,8.42 B USD,308.14 M USD,416.06 M,"Smart contract platforms, Layer 1, Made in America"
-XLMStellar,14,0.24614 USD,−4.80%,7.59 B USD,206.9 M USD,30.84 B,"Cryptocurrencies, Smart contract platforms, Layer 1, Made in America"
-SUISui,15,2.3213 USD,+2.61%,7.54 B USD,896.5 M USD,3.25 B,"Smart contract platforms, Developments tools, Scaling, Layer 1, Made in America"
-SHIBShiba Inu,16,0.000012545 USD,−1.17%,7.39 B USD,147.47 M USD,589.25 T,"Memes, Cryptocurrencies"
-TONToncoin,17,2.9325 USD,−3.72%,7.36 B USD,125.54 M USD,2.51 B,"Smart contract platforms, Layer 1"
-HBARHedera,18,0.17310 USD,−0.25%,7.31 B USD,170.61 M USD,42.23 B,"Smart contract platforms, Enterprise solutions, DeFi, Layer 1, Made in America"
-BCHBitcoin Cash,19,348.81 USD,+1.74%,6.93 B USD,263.98 M USD,19.86 M,"Cryptocurrencies, Layer 1, Made in America"
-HYPEHyperliquid,20,18.300 USD,−0.92%,6.11 B USD,124.87 M USD,333.93 M,"Decentralized exchange, Derivatives, Layer 1"
-LTCLitecoin,21,80.059 USD,−1.26%,6.05 B USD,391.89 M USD,75.56 M,"Cryptocurrencies, Layer 1, Made in America"
-DOTPolkadot,22,3.7740 USD,−4.92%,5.93 B USD,131.75 M USD,1.57 B,"Smart contract platforms, Layer 1"
-DAIDai,23,1.0000 USD,−0.01%,5.37 B USD,1.1 B USD,5.37 B,"Stablecoins, Asset-backed Stablecoins, DeFi"
-BGBBitget Token,24,4.4500 USD,−0.56%,5.21 B USD,141.23 M USD,1.17 B,Centralized-exchange
-USDEEthena USDe,25,0.99938 USD,+0.03%,4.82 B USD,41.9 M USD,4.82 B,"Stablecoins, Asset-backed Stablecoins"
-PIPI,26,0.63174 USD,−1.06%,4.38 B USD,75.44 M USD,6.93 B,Layer 1
-XMRMonero,27,217.39 USD,+0.46%,4.01 B USD,66.02 M USD,18.45 M,"Privacy, Cryptocurrencies, Layer 1"
-PEPEPepe,28,0.0000081407 USD,+3.57%,3.42 B USD,675.4 M USD,420.69 T,Memes
-UNIUniswap,29,5.3725 USD,−2.06%,3.38 B USD,99.42 M USD,628.49 M,"Decentralized exchange, DeFi, DAO, Layer 1, Made in America"
-OKBOKB,30,50.936 USD,−0.42%,3.06 B USD,4.4 M USD,60 M,"Centralized-exchange, Layer 1"
-APTAptos,31,4.8515 USD,−6.88%,3 B USD,114.1 M USD,618.41 M,"Smart contract platforms, Layer 1, Made in America"
-GTGateToken,32,23.198 USD,+0.51%,2.85 B USD,6.7 M USD,122.91 M,Centralized-exchange
-TAOBittensor,33,325.78 USD,+1.16%,2.81 B USD,210.48 M USD,8.64 M,"Distributed computing & Storage, Oracles, Data management & AI, DAO, DePIN"
-ONDOOndo,34,0.85980 USD,−3.34%,2.72 B USD,129.55 M USD,3.16 B,Made in America
-NEARNEAR Protocol,35,2.2011 USD,−5.47%,2.66 B USD,139.59 M USD,1.21 B,"Smart contract platforms, Data management & AI, Interoperability, Layer 1, Made in America"
-ICPInternet Computer,36,4.6882 USD,−6.31%,2.5 B USD,67.99 M USD,532.47 M,"Smart contract platforms, Data management & AI, DeFi, Layer 1"
-ETCEthereum Classic,37,15.648 USD,−3.62%,2.37 B USD,85.5 M USD,151.62 M,"Smart contract platforms, Layer 1"
-KASKaspa,38,0.089308 USD,+6.97%,2.33 B USD,113.73 M USD,26.06 B,"Cryptocurrencies, Layer 1, Made in America"
-RENDERRender,39,4.3718 USD,−2.20%,2.26 B USD,99.16 M USD,517.72 M,"Distributed computing & Storage, Data management & AI, NFTs & Collectibles, Scaling, Social, media & Content, Metaverse, Web3, DePIN, Made in America"
-POLPOL (ex-MATIC),40,0.21998 USD,+12.06%,2.29 B USD,143.23 M USD,10.41 B,—
-MNTMantle,41,0.65808 USD,−1.59%,2.21 B USD,207.5 M USD,3.36 B,"Scaling, DeFi, DAO"
-AAVEAave,42,147.55 USD,+1.14%,2.23 B USD,186.94 M USD,15.1 M,"Lending & Borrowing, DeFi, DAO, Made in America"
-CROCronos,43,0.082591 USD,−1.98%,2.19 B USD,20.63 M USD,26.57 B,"Smart contract platforms, Centralized-exchange, Payments, Layer 1"
-VETVeChain,44,0.023725 USD,−3.41%,2.04 B USD,65.29 M USD,85.99 B,"Smart contract platforms, Internet of things, Logistics, Layer 1"
-TRUMPOFFICIAL TRUMP,45,8.4601 USD,+1.51%,1.69 B USD,400.01 M USD,200 M,"Memes, Made in America"
-FILFilecoin,46,2.5285 USD,−5.77%,1.67 B USD,117.32 M USD,659.35 M,"Distributed computing & Storage, Data management & AI, Web3, Layer 1, DePIN, Made in America"
-ALGOAlgorand,47,0.19266 USD,−4.88%,1.65 B USD,75.6 M USD,8.57 B,"Smart contract platforms, Layer 1, Made in America"
-ENAEthena,48,0.29573 USD,−2.07%,1.64 B USD,105.39 M USD,5.55 B,DeFi
-FDUSDFirst Digital USD,49,0.99841 USD,−0.07%,1.62 B USD,2.78 B USD,1.62 B,Stablecoins
-ATOMCosmos,50,4.0905 USD,−4.41%,1.6 B USD,113.37 M USD,390.93 M,"Smart contract platforms, Interoperability, Layer 1"
-TIACelestia,51,2.5345 USD,−3.32%,1.54 B USD,64.1 M USD,607.26 M,—
-ARBArbitrum,52,0.30083 USD,−4.19%,1.43 B USD,112.71 M USD,4.76 B,"Scaling, Web3, DAO"
-FETArtificial Superintelligence Alliance,53,0.59606 USD,−1.35%,1.43 B USD,299.16 M USD,2.39 B,"Data management & AI, Interoperability, Layer 1"
-SSonic (prev. FTM),54,0.48126 USD,−2.11%,1.39 B USD,136.63 M USD,2.88 B,Layer 1
-KCSKuCoin Token,55,9.964 USD,−0.56%,1.25 B USD,818.09 K USD,125.04 M,Centralized-exchange
-DEXEDeXe,56,14.667 USD,−4.37%,1.23 B USD,14.05 M USD,83.73 M,"Data management & AI, Asset management, DeFi"
-JUPJupiter,57,0.40554 USD,+1.23%,1.15 B USD,49.04 M USD,2.84 B,"Decentralized exchange, Derivatives, Interoperability, DeFi"
-OPOptimism,58,0.69547 USD,−4.43%,1.15 B USD,119.11 M USD,1.66 B,"Scaling, Made in America"
-MKRMaker,59,"1,387.64 USD",−1.48%,1.16 B USD,49.27 M USD,839.07 K,"Lending & Borrowing, DeFi, DAO, Made in America"
-XDCXDC Network,60,0.072006 USD,+0.59%,1.13 B USD,33.08 M USD,15.7 B,"Smart contract platforms, Enterprise solutions, Layer 1"
-STXStacks,61,0.74554 USD,+5.88%,1.14 B USD,213.96 M USD,1.52 B,"Smart contract platforms, NFTs & Collectibles, DeFi, Metaverse, Web3, Made in America"
-FARTCOINFartcoin,62,1.06383 USD,+18.02%,1.06 B USD,348.01 M USD,1 B,Memes
-FLRFLARE,63,0.016117 USD,−1.80%,1.02 B USD,10.29 M USD,63.13 B,"Developments tools, Interoperability, Layer 1"
-WLDWorldcoin,64,0.78291 USD,−0.94%,1.01 B USD,102.05 M USD,1.29 B,"Privacy, Identity, Made in America"
-BONKBonk,65,0.000012693 USD,−0.81%,998.35 M USD,94.52 M USD,78.65 T,"Memes, Made in America"
-EOSEOS,66,0.63805 USD,−2.12%,995.65 M USD,132.7 M USD,1.56 B,"Smart contract platforms, Made in America"
-IPStory,67,3.6333 USD,−2.37%,977.31 M USD,45.94 M USD,268.99 M,"Smart contract platforms, Data management & AI, Layer 1, Made in America"
-SEISei,68,0.17907 USD,−0.56%,914.55 M USD,58.29 M USD,5.11 B,"Developments tools, Layer 1, Made in America"
-XAUTTether Gold,69,"3,470.33 USD",+1.52%,855.52 M USD,39.88 M USD,246.52 K,Asset-backed Tokens
-PYUSDPayPal USD,70,0.99961 USD,−0.01%,859.83 M USD,47.24 M USD,860.16 M,"Stablecoins, Asset-backed Stablecoins"
-INJInjective,71,8.5252 USD,−5.25%,852.27 M USD,67.65 M USD,99.97 M,"Smart contract platforms, Data management & AI, Interoperability, DeFi, Web3, Layer 1, Made in America"
-IMXImmutable,72,0.45992 USD,−5.08%,835.84 M USD,48.11 M USD,1.82 B,"Developments tools, Gaming, NFTs & Collectibles, Scaling, Marketplace"
-GRTThe Graph,73,0.084068 USD,−2.15%,821.78 M USD,40.14 M USD,9.78 B,"Data management & AI, Enterprise solutions, Web3, Made in America"
-CRVCurve DAO Token,74,0.61576 USD,−2.12%,813.83 M USD,161.46 M USD,1.32 B,"Decentralized exchange, DeFi, DAO"
-QNTQuant,75,67.488 USD,+0.37%,814.76 M USD,20.19 M USD,12.07 M,Interoperability
-PAXGPAX Gold,76,"3,467.45 USD",+1.35%,798.6 M USD,160.19 M USD,230.31 K,Asset-backed Tokens
-FORMFour,77,2.0766 USD,−0.49%,792.99 M USD,15.46 M USD,381.87 M,Gaming
-JASMYJasmyCoin,78,0.014252 USD,−4.96%,704.69 M USD,50.17 M USD,49.44 B,Internet of things
-GALAGala,79,0.015943 USD,−3.29%,703.03 M USD,115.84 M USD,44.1 B,"Gaming, NFTs & Collectibles, Made in America"
-SANDThe Sandbox,80,0.27434 USD,−4.46%,692.24 M USD,83.23 M USD,2.52 B,"Gaming, NFTs & Collectibles, Metaverse, Marketplace"
-RAYRaydium,81,2.3395 USD,+2.50%,680.36 M USD,74.9 M USD,290.81 M,"Decentralized exchange, DeFi"
-KAIAKaia,82,0.11192 USD,+5.66%,671.44 M USD,30.7 M USD,6 B,"Enterprise solutions, Layer 1"
-NEXONexo,83,1.0605 USD,+1.72%,685.24 M USD,11.04 M USD,646.15 M,"Lending & Borrowing, Payments"
-CORECore,84,0.65163 USD,−3.88%,651.4 M USD,23.63 M USD,999.64 M,"Scaling, Web3, DAO"
-LDOLido DAO,85,0.73137 USD,−2.17%,656.68 M USD,97.38 M USD,897.88 M,"Derivatives, DeFi, DAO"
-IOTAIOTA,86,0.17100 USD,−0.89%,637.33 M USD,20.73 M USD,3.73 B,"Cryptocurrencies, Internet of things, DePIN"
-HNTHelium,87,3.4264 USD,−2.40%,621.3 M USD,5.33 M USD,181.33 M,"Internet of things, Enterprise solutions, Web3, DePIN, Made in America"
-THETATheta Network,88,0.62598 USD,−6.56%,625.98 M USD,40.66 M USD,1 B,"Smart contract platforms, Distributed computing & Storage, Data management & AI, Enterprise solutions, Social, media & Content, Web3, Layer 1, DePIN, Made in America"
-BTTBitTorrent-New,89,0.00000061127 USD,−0.52%,602.75 M USD,20.08 M USD,986.06 T,"Distributed computing & Storage, Web3, DePIN"
-ABAB,90,0.010956 USD,+0.31%,600.44 M USD,60.31 M USD,54.8 B,"Enterprise solutions, Marketplace"
-FLOWFlow,91,0.37342 USD,−1.48%,588.87 M USD,23.3 M USD,1.58 B,"Smart contract platforms, NFTs & Collectibles, Sports, Layer 1"
-MANADecentraland,92,0.29817 USD,−6.13%,579.12 M USD,75.84 M USD,1.94 B,"Gaming, NFTs & Collectibles, Metaverse"
-BSVBitcoin SV,93,29.244 USD,−0.68%,580.64 M USD,49.23 M USD,19.85 M,"Cryptocurrencies, Scaling"
-CAKEPancakeSwap,94,1.9489 USD,−3.37%,574.74 M USD,79.89 M USD,294.9 M,"Decentralized exchange, DeFi"
-XCNOnyxcoin,95,0.017061 USD,−5.33%,566.54 M USD,43.45 M USD,33.21 B,"Enterprise solutions, Made in America"
-FLOKIFLOKI,96,0.000058872 USD,−1.73%,566.66 M USD,64.97 M USD,9.63 T,"Memes, Gaming, Metaverse"
-WWALWalrus,97,0.44045 USD,−0.43%,564.97 M USD,42.93 M USD,1.28 B,"Distributed computing & Storage, DePIN"
-MOVEMovement,98,0.22599 USD,−8.30%,553.68 M USD,125.07 M USD,2.45 B,"Layer 1, Made in America"
-ENSEthereum Name Service,99,15.350 USD,+0.87%,551.14 M USD,50.67 M USD,35.9 M,"Identity, Web3, DAO"
-JTOJito,100,1.7186 USD,+0.60%,548.93 M USD,28.08 M USD,319.41 M,"Derivatives, DeFi, DAO"
+0X00x0.ai,—,0.064101 USD,−7.37%,55.68 M USD,315.83 K USD,868.56 M,"Privacy, Data management & AI"
+PSTPrimas,—,0.00050961 USD,−2.22%,—,78.55 K USD,—,"Social, media & Content"
+CCOCOROCOCORO,—,0.000018010 USD,−20.24%,7.58 M USD,454.54 K USD,420.69 B,Memes
+STETHLido Staked ETH,—,"1,626.00 USD",−0.95%,15.07 B USD,24.12 M USD,9.27 M,"Derivatives, DeFi"
+PICKLEPickle Finance,—,0.11630 USD,−2.84%,221.9 K USD,104 USD,1.91 M,"DeFi, DAO"
+GEMAINext Gem AI,—,0.00034200 USD,−0.29%,58.58 K USD,60.83 K USD,171.28 M,"Data management & AI, Analytics"
+TThreshold,—,0.016907 USD,−6.59%,171.22 M USD,25.4 M USD,10.13 B,"Interoperability, DeFi, DAO"
+SATSSATS (Ordinals),—,0.000000038715 USD,−6.23%,81.3 M USD,36.77 M USD,"2,100 T",—
+SAINTSatoshi AI agent by Virtuals,—,0.00058931 USD,−5.18%,589.15 K USD,2.41 K USD,999.72 M,—
+VTVirtual Tourist,—,0.0038800 USD,+1.57%,920.34 K USD,125.57 K USD,237.2 M,—
+CDXCodeXchain,—,0.00081621 USD,+8.60%,148.58 K USD,41.7 K USD,182.04 M,"Data management & AI, Social, media & Content"
+FUNEXFunex,—,0.030200 USD,0.00%,276.59 K USD,138 USD,9.16 M,—
+NBOTNaka Bodhi Token,—,0.0023510 USD,+0.05%,—,74.26 K USD,—,—
+DOGDog (Bitcoin),—,0.0015045 USD,−3.56%,150.45 M USD,6.3 M USD,100 B,Memes
+REDRED TOKEN,—,0.0000016490 USD,−1.49%,10.72 K USD,73.23 K USD,6.5 B,—
+EEDGEDefinitive,—,643206432000.00000e-13 USD,—,—,3.84 M USD,—,—
+BAKEBakeryToken,—,0.12426 USD,−3.55%,36.01 M USD,5.84 M USD,289.77 M,"Decentralized exchange, NFTs & Collectibles, DeFi, Marketplace"
+SSOSSolana Swap,—,0.19580 USD,−13.47%,195.8 M USD,6.44 M USD,1 B,—
+POLCPolkacity,—,0.0008440 USD,−69.39%,160.38 K USD,1.05 M USD,190.03 M,"NFTs & Collectibles, Metaverse"
+XNOXeno Token,—,0.000073001 USD,+1.39%,86.4 K USD,51.7 K USD,1.18 B,"Cryptocurrencies, Payments"
+SUMMITSummit,—,0.00016070 USD,+1.90%,300.35 M USD,63.05 K USD,1.87 T,Memes
+SHIDOShido (new),—,0.00017690 USD,−1.86%,3.15 M USD,—,17.82 B,—
+MAGAMAGA 2024,—,0.00000000065601 USD,−6.15%,132.78 K USD,494 USD,202.4 T,Memes
+VELARVelar,—,0.0096100 USD,−13.12%,3.05 M USD,345.17 K USD,317.1 M,—
+BBASEBase is for everyone,—,55900559000.00001e-13 USD,—,—,3.59 M USD,—,—
+PUSHPush Protocol,—,0.030800 USD,+3.01%,2.78 M USD,1.37 M USD,90.24 M,"Interoperability, DeFi, Web3, DAO"
+LOKALeague of Kingdoms Arena,—,0.082101 USD,−9.23%,30.74 M USD,22.84 M USD,374.36 M,"Gaming, NFTs & Collectibles, Metaverse"
+QTUMQtum,—,2.1044 USD,−2.06%,222.25 M USD,52.4 M USD,105.61 M,Smart contract platforms
+DOGINMEdoginme,—,0.00049331 USD,−5.59%,33.36 M USD,6.69 M USD,67.62 B,Memes
+PPCPeercoin,—,0.21090 USD,−12.70%,6.22 M USD,48.31 K USD,29.51 M,"Cryptocurrencies, Payments"
+ZZPWeb3PVZ,—,0.00066271 USD,+15.30%,30.78 K USD,626.44 K USD,46.44 M,Gaming
+XMRMonero,—,217.38 USD,+0.92%,4.01 B USD,66.05 M USD,18.45 M,"Privacy, Cryptocurrencies, Layer 1"
+BLDAgoric,—,0.018955 USD,−13.80%,12.83 M USD,424.03 K USD,676.69 M,—
+HMNDHumanode,—,0.029630 USD,+0.87%,3.19 M USD,493.21 K USD,107.77 M,Layer 1
+NIGELLANigella coin,—,0.26750 USD,−6.34%,12.64 M USD,79.78 K USD,47.24 M,—
+FINEFine,—,0.0000000012110 USD,+6.03%,509.46 K USD,—,420.69 T,Memes
+PARAMParam,—,0.00035790 USD,−4.25%,92.7 K USD,88.46 K USD,259 M,Gaming
+CLYColony,—,0.076421 USD,−1.70%,8.61 M USD,38.52 K USD,112.64 M,—
+XSWAPXSwap,—,0.038000 USD,−5.21%,5.57 M USD,111.01 K USD,146.62 M,DeFi
+STOREBit.Store,—,0.0036100 USD,−2.38%,895.28 K USD,91.53 K USD,248 M,—
+DFIDfiStarter,—,0.00083701 USD,+4.29%,—,—,—,—
+CHATAIChatAI Token,—,0.00058201 USD,−3.43%,—,—,—,—
+CRTCantina Royale,—,0.00081592 USD,−2.01%,198.42 K USD,7 USD,243.18 M,—
+CYBONKCYBONK,—,0.00000073791 USD,+2.22%,73.79 K USD,73 USD,100 B,Memes
+BLESBlind Boxes,—,0.00096301 USD,−1.63%,—,72.4 K USD,—,—
+WLDWorldcoin,—,0.78311 USD,−1.01%,1.01 B USD,103.5 M USD,1.29 B,"Privacy, Identity, Made in America"
+BABYBTCBaby BitCoin,—,0.00019980 USD,−0.10%,199.8 K USD,4.3 K USD,999.99 M,Memes
+LNRLiNEAR Protocol,—,0.00091850 USD,−29.23%,734.8 K USD,87.13 K USD,800 M,Interoperability
+DIKOArkadiko Finance,—,0.039500 USD,+2.11%,237 K USD,761 USD,6 M,—
+OMComchain,—,0.00062500 USD,−3.70%,—,—,—,—
+MBPMBP Coin,—,0.061926 USD,−1.45%,990.5 K USD,2.69 M USD,15.99 M,—
+ARArweave,—,5.5125 USD,−2.24%,361.91 M USD,34.62 M USD,65.65 M,"Distributed computing & Storage, Web3, DePIN"
+NEIRONeiro (neiro.lol),—,0.00090211 USD,+9.98%,902.11 K USD,1.33 M USD,1 B,Memes
+CTGCity Tycoon Games,—,0.21201 USD,+1.01%,2.12 M USD,184.12 K USD,10 M,—
+TRUMPOFFICIAL TRUMP,—,8.5070 USD,+2.72%,1.7 B USD,401.84 M USD,200 M,"Memes, Made in America"
+ICTInternet Computer Technology,—,0.020000 USD,+0.01%,—,3.66 K USD,—,—
+POLYDOGEPolyDoge,—,0.0000000054646 USD,−2.08%,4.74 M USD,525.59 K USD,868.09 T,—
+ARSAquarius Loan,—,0.00056101 USD,+0.72%,95.33 K USD,170.6 K USD,169.92 M,—
+QKCQuarkChain,—,0.0075997 USD,−2.71%,54.06 M USD,6.44 M USD,7.11 B,Smart contract platforms
+MFERmfercoin,—,0.0077101 USD,−1.28%,7.71 M USD,176.19 K USD,1 B,Memes
+GANGalactic Arena: The NFTverse,—,0.000039720 USD,−2.74%,32.22 K USD,75.75 K USD,811.14 M,—
+FRXETHFrax Finance - Frax Ether,—,"1,623.32 USD",−1.00%,84.69 M USD,1.96 M USD,52.17 K,"Derivatives, DeFi"
+KOLZKOLZ,—,0.000040380 USD,+3.09%,211.91 K USD,1.08 K USD,5.25 B,—
+MEMEMemecoin,—,0.0019675 USD,−10.15%,85.42 M USD,50.15 M USD,43.42 B,"Memes, NFTs & Collectibles"
+PELFPELFORT,—,0.000034280 USD,−3.00%,342.8 K USD,219 USD,10 B,—
+BBDTCBDTCOIN,—,115.04 USD,−4.10%,4.05 B USD,435.39 K USD,35.2 M,—
+YLAYYelay,—,0.0077061 USD,+0.04%,5.21 M USD,3.6 K USD,676 M,DeFi
+TADATa-da,—,0.0037645 USD,−15.27%,2.5 M USD,81.44 K USD,664.32 M,Data management & AI
+HUAHUAChihuahua,—,0.000019055 USD,−1.67%,1.78 M USD,495.39 K USD,93.55 B,"Memes, Cryptocurrencies, Payments, Layer 1"
+BIOPBiop,—,0.013460 USD,+8.64%,—,—,—,—
+PORPortugal National Team Fan Token,—,0.74201 USD,+2.48%,2.66 M USD,165.65 K USD,3.58 M,"Sports, Fan Tokens"
+PDAPlayDapp,—,0.012685 USD,−5.59%,7.84 M USD,10.8 M USD,618.08 M,"Gaming, Metaverse"
+KOYKoyo,—,0.00042120 USD,−4.50%,232.53 K USD,1.34 K USD,552.07 M,—
+NABOXNabox,—,0.0000021050 USD,+16.11%,439.13 K USD,341 USD,208.61 B,—
+NCTRApillon,—,0.0089697 USD,−0.10%,614.42 K USD,16 USD,68.5 M,Web3
+RFUELRioDeFi,—,0.00072301 USD,+0.14%,249.11 K USD,77.41 K USD,344.55 M,—
+BLOCXBLOCX.,—,0.010090 USD,+1.46%,1.01 M USD,234.17 K USD,100.11 M,"Privacy, Distributed computing & Storage, Payments, Cybersecurity, DAO, DePIN"
+ASTRAAstraAI,—,0.61001 USD,−3.48%,5.5 M USD,1.14 K USD,9.01 M,Data management & AI
+MEVMEVerse,—,0.0026200 USD,−2.36%,4.52 M USD,401.64 K USD,1.73 B,"Interoperability, DeFi, Metaverse"
+OGYORIGYN,—,0.0023330 USD,−6.53%,18.26 M USD,120.61 K USD,7.83 B,Web3
+LIBERTAThe Libertarian Dog,—,0.00018770 USD,+10.09%,112.62 K USD,47.99 K USD,600 M,—
+WANWanchain,—,0.10900 USD,+0.46%,21.64 M USD,3.48 M USD,198.54 M,"Interoperability, DeFi"
+SQUADSquadSwap,—,0.078011 USD,+15.00%,7.8 M USD,4.01 K USD,100 M,"Decentralized exchange, DeFi"
+LUMLuminous,—,0.75861 USD,−5.65%,758.61 K USD,261.1 K USD,1 M,"Memes, Data management & AI"
+METISMetis,—,14.380 USD,−0.81%,91.11 M USD,10.11 M USD,6.34 M,Scaling
+FYNAffyn,—,0.0016295 USD,−0.64%,413.95 K USD,160.05 K USD,254.03 M,"Gaming, Metaverse"
+AVCAlterVerse,—,0.0013615 USD,−9.77%,1.29 M USD,185.02 K USD,950 M,Gaming
+XTXT Smart Chain,—,4.4520 USD,+0.52%,26.92 M USD,15.01 M USD,6.05 M,—
+ERTHAErtha,—,0.00044650 USD,−4.61%,850.14 K USD,1.67 M USD,1.9 B,Gaming
+HITHitChain,—,0.0000034550 USD,−0.03%,—,77.65 K USD,—,—
+AIMXMind Matrix,—,0.00000000017000 USD,−5.02%,1.7 K USD,3.97 K USD,10 T,—
+BDTBandot Protocol,—,0.000018080 USD,+0.84%,—,77.61 K USD,—,—
+ETHFIether.fi,—,0.51067 USD,+2.41%,117.68 M USD,88.39 M USD,230.44 M,DeFi
+INSTInstadapp,—,3.9576 USD,−1.46%,156.08 M USD,4.48 M USD,39.44 M,"DeFi, DAO"
+LMRLumerin,—,0.0032700 USD,−6.30%,1.98 M USD,56.12 K USD,606.62 M,"Data management & AI, DePIN"
+GLQGraphlinq Chain,—,0.021700 USD,+5.83%,7.38 M USD,371.54 K USD,340 M,"Data management & AI, Enterprise solutions, Analytics, Layer 1"
+SABAISabai Protocol,—,0.0016970 USD,−0.23%,862.14 K USD,183.89 K USD,508.04 M,—
+DFYNDfyn Network,—,0.0034080 USD,+1.10%,585.76 K USD,185.1 K USD,171.88 M,"Decentralized exchange, DeFi"
+SENTAISentAI,—,0.00051001 USD,−11.11%,510.01 K USD,391.59 K USD,1 B,"Memes, Data management & AI"
+DIGIMONDigimon,—,0.0024808 USD,−18.58%,2.48 M USD,873.8 K USD,999.93 M,—
