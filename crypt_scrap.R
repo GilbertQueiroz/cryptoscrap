@@ -1,4 +1,5 @@
 library(readr)
+library(rvest)
 
 crypt_scrap <- function() {
 
